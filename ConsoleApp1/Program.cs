@@ -8,18 +8,6 @@
 //    }
 
 //Console.WriteLine(cem);
-
-
-
-
-
-
-
-
-
-
-
-
 //int eded = 6;
 //int say = 0;
 
