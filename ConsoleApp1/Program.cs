@@ -28,17 +28,6 @@
 //    Console.WriteLine("Murekkebdir");
 //}
 
-
-
-
-
-
-
-
-
-
-
-
 //int eded = 1234;
 
 //while (eded > 0)
