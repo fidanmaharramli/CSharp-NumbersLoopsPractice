@@ -37,9 +37,6 @@
 //    eded = eded / 10;
 //}
 
-
-
-
 //int eded = 8;
 
 //while (eded % 2 == 0) 
@@ -57,9 +54,6 @@
 //    Console.WriteLine("Quvveti deyil");
 //}
 
-
-
-
 //int M = 10;
 //int say = 0;
 
@@ -71,10 +65,6 @@
 //Console.WriteLine(say);
 
 
-
-
-
-
 //int n = 6;
 
 //for (int i = 1; i<= n; i++)
@@ -84,11 +74,6 @@
 //        Console.WriteLine(i);
 //    }
 //}
-
-
-
-
-
 
 //int x = 20;
 //int y = 4;
@@ -104,24 +89,12 @@
 //Console.WriteLine(netice);
 
 
-
-
-
-
-
-
 //int eded = 107;
 //int a = eded / 100;
 //int b = (eded / 10) % 10;
 //int c = eded % 10;
 //int hasil = a * b * c;
 //Console.WriteLine(hasil);
-
-
-
-
-
-
 
 
 
